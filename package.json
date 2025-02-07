@@ -10,7 +10,8 @@
   "license": "ISC",
   "description": "",
   "bin": {
-    "cli": "./command.js"
+    "cli": "./command.js",
+    "sequelize-cli": "./dbCommand.js"
   },
   "dependencies": {
     "chalk": "^5.4.1",
